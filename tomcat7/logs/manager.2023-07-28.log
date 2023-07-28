@@ -4,3 +4,19 @@ Jul 28, 2023 5:05:36 AM org.apache.catalina.core.ApplicationContext log
 INFO: HTMLManager: init: Global resources are available
 Jul 28, 2023 5:05:36 AM org.apache.catalina.core.ApplicationContext log
 INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+Jul 28, 2023 5:17:02 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 28, 2023 5:17:02 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 28, 2023 5:17:02 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/mavenweb'
+Jul 28, 2023 5:35:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/mavenweb'
+Jul 28, 2023 6:22:28 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/mavenweb'
+Jul 28, 2023 6:26:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/mavenweb'
+Jul 28, 2023 6:29:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/mavenweb'
+Jul 28, 2023 6:29:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /home/ubuntu/mavenweb/tomcat7/webapps/mavenweb.war.tmp
