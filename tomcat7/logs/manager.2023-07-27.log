@@ -4,3 +4,9 @@ Jul 27, 2023 7:41:07 AM org.apache.catalina.core.ApplicationContext log
 INFO: HTMLManager: init: Global resources are available
 Jul 27, 2023 7:41:07 AM org.apache.catalina.core.ApplicationContext log
 INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+Jul 27, 2023 7:45:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 27, 2023 7:45:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 27, 2023 7:45:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/mavenweb'

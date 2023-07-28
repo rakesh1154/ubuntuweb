@@ -13,3 +13,6 @@
 103.24.126.65 - - [27/Jul/2023:07:41:07 +0000] "GET /manager/images/tomcat.gif HTTP/1.1" 200 2066
 103.24.126.65 - - [27/Jul/2023:07:41:07 +0000] "GET /manager/images/asf-logo.svg HTTP/1.1" 200 20486
 103.24.126.65 - - [27/Jul/2023:07:41:12 +0000] "GET /mavenweb/ HTTP/1.1" 200 66
+54.174.255.177 - tomcat1 [27/Jul/2023:07:45:31 +0000] "PUT /manager/text/deploy?path=%2Fmavenweb HTTP/1.1" 200 65
+103.24.126.65 - - [27/Jul/2023:07:46:14 +0000] "GET /mavenweb HTTP/1.1" 302 -
+103.24.126.65 - - [27/Jul/2023:07:46:14 +0000] "GET /mavenweb/ HTTP/1.1" 200 66
